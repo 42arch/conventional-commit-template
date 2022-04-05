@@ -142,5 +142,6 @@ npm run release -- --release-as premajor # 1.1.0-0 to 2.0.0-0
 
 ## git-flow的分支策略
 
+参考：
 https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy
 

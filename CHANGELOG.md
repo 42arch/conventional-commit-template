@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/REND42/conventional-commit-template/compare/v0.0.3...v0.1.0) (2022-04-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* **multiply:** add multiply console.log
+* **index:** add more console.log, eg: multiply
+
+### Features
+
+* **index:** add another console.log ([dbd19d4](https://github.com/REND42/conventional-commit-template/commit/dbd19d42932c2cfd5000cc0f547e92656e72cec8))
+
+
+* **multiply:** add another console.log ([909936a](https://github.com/REND42/conventional-commit-template/commit/909936aa6b8e079d64ab9c0d9bb5167fa56a26f2))
+
 ### [0.0.3](https://github.com/REND42/conventional-commit-template/compare/v0.0.2...v0.0.3) (2022-04-05)
 
 

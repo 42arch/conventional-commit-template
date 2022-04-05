@@ -1,6 +1,6 @@
 {
   "name": "conventional-commit-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "repository": "git@github.com:REND42/conventional-commit-template.git",
   "author": "REND42 <rend42@163.com>",

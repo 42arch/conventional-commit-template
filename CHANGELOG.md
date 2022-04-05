@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/REND42/conventional-commit-template/compare/v0.1.0...v0.1.1) (2022-04-05)
+
+
+### Bug Fixes
+
+* **test:** fix multiply unit test ([e240093](https://github.com/REND42/conventional-commit-template/commit/e2400933348e747e0d2c3c0ef1ca50272e78b19a)), closes [#2](https://github.com/REND42/conventional-commit-template/issues/2)
+
 ## [0.1.0](https://github.com/REND42/conventional-commit-template/compare/v0.0.3...v0.1.0) (2022-04-05)
 
 

@@ -1,7 +1,7 @@
-import add from '@src/math/add'
+import multiply from '@src/math/multiply'
 
-describe('This is an add test', () => {
+describe('This is an multiply test', () => {
   it('should pass', () => {
-    expect(add(1, 2)).toBe(3)
+    expect(multiply(3, 2)).toBe(6)
   })
 })

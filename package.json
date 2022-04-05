@@ -1,0 +1,51 @@
+{
+  "name": "conventional-commit-template",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:REND42/conventional-commit-template.git",
+  "author": "REND42 <rend42@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "nodemon",
+    "build": "tsc -p tsconfig.prod.json",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "prepare": "husky install",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-conventional": "^16.2.1",
+    "@types/jest": "^27.4.1",
+    "@types/node": "^17.0.23",
+    "@typescript-eslint/eslint-plugin": "^5.18.0",
+    "@typescript-eslint/parser": "^5.18.0",
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "3.3.0",
+    "eslint": "^8.12.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-typescript": "^2.7.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-prettier": "^4.0.0",
+    "husky": "^7.0.0",
+    "jest": "^27.5.1",
+    "lint-staged": "^12.3.7",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.1",
+    "standard-version": "^9.3.2",
+    "ts-jest": "^27.1.4",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {},
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

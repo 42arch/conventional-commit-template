@@ -140,6 +140,12 @@ npm run release -- --release-as premajor # 1.1.0-0 to 2.0.0-0
 
 ```
 
+将更改和 tags 推送到远端
+
+```
+git push --follow-tags origin main
+```
+
 ## git-flow的分支策略
 
 参考：

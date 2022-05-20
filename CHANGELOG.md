@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/REND42/conventional-commit-template/compare/v0.1.1...v0.1.2) (2022-05-20)
+
+
+### Features
+
+* test tags ([41cde6e](https://github.com/REND42/conventional-commit-template/commit/41cde6e5574906bc1effc077a8855c41223fd563))
+
 ### [0.1.1](https://github.com/REND42/conventional-commit-template/compare/v0.1.0...v0.1.1) (2022-04-05)
 
 
